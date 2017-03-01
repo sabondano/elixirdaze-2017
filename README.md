@@ -11,3 +11,4 @@ A collection of links that cover what happened during ElixirDaze 2017. Please fe
 - Slides:
     + [Links, Monitors, Tasks](https://github.com/fishcakez/crash_workshop/blob/master/tasks/Elixir%20Daze%20-%20Links%2C%20Monitors%20and%20Tasks.pdf)
     + [Agents and GenServers](https://github.com/fishcakez/crash_workshop/blob/master/agents/Elixir%20Daze%20-%20Agents%20and%20GenServers.pdf)
+    + [Supervisors](https://github.com/fishcakez/crash_workshop/blob/master/supervisors/Elixir%20Daze%20-%20Supervisors.pdf)
