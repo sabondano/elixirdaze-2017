@@ -20,6 +20,7 @@ A collection of links that cover what happened during ElixirDaze 2017. Please fe
     + [Quixir](https://github.com/pragdave/quixir)
     + [Pollution](https://github.com/pragdave/pollution)
     + [Diet](https://github.com/pragdave/diet)
+    + [Service](https://github.com/pragdave/service)
     + [Exactor](https://github.com/sasa1977/exactor)
 
 #### The ABCs of OTP by [Jesse J. Anderson](https://github.com/jessejanderson)
