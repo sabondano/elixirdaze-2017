@@ -22,11 +22,14 @@ A collection of links that cover what happened during ElixirDaze 2017. Please fe
     + [Diet](https://github.com/pragdave/diet)
     + [Service](https://github.com/pragdave/service)
     + [Exactor](https://github.com/sasa1977/exactor)
+- Slides:
 
 #### The ABCs of OTP by [Jesse J. Anderson](https://github.com/jessejanderson)
 - Links:
     + ["The Zen of Erlang](http://ferd.ca/the-zen-of-erlang.html)
     + [Suggested Resources](https://gist.github.com/jessejanderson/16cbc0614e9194fa1b64460f775777ab)
+- Slides:
+    + [The ABCs of OTP](https://speakerdeck.com/jessejanderson/the-abcs-of-otp)
 
 #### Observer Driven Design by [Omid Bachari](https://github.com/omidbachari)
 - Slides:
@@ -34,4 +37,28 @@ A collection of links that cover what happened during ElixirDaze 2017. Please fe
 
 #### Embrace The Database With Ecto by [Josh Branchaud](https://github.com/jbranchaud)
 - Links:
-    + []()
+    + [Ecto](https://hexdocs.pm/ecto/Ecto.html)
+    + [PostgreSQL Documentation](https://www.postgresql.org/docs/9.6/static/index.html)
+    + [Advanced SQL Book by Joe Celko](https://www.amazon.com/Joe-Celkos-SQL-Smarties-Fifth/dp/0128007613/ref=la_B000ARBFVQ_1_1?s=books&ie=UTF8&qid=1488482531&sr=1-1)
+- Slides:
+
+#### Stronger Than Fear (Mental Health in the Developer COmmunity) by [Ed Finkler](https://github.com/funkatron)
+- Links:
+    + [Graph Story](https://www.graphstory.com/)
+    + [Prompt](http://mhprompt.org/)
+    + [OSMI Handbooks](https://osmihelp.org/resources/)
+- Slides:
+
+#### Get Cooking With Nerves by [Garth Hitchens](https://github.com/ghitchens)
+- Links:
+    + [Nerves](https://github.com/nerves-project)
+    + [Beaglebone Black](https://beagleboard.org/black)
+    + [Raspberry Pi](https://www.raspberrypi.org/)
+    + [GrovePI+](https://www.dexterindustries.com/grovepi/)
+
+#### by [Tetiana](https://github.com/tetiana12345678) & [Keith](https://github.com/globalkeith)
+- Links:
+    + [Elixir Flashcards](https://github.com/tetiana12345678/elixir-flashcards)
+    + [Railway Oriented Programming](https://vimeo.com/97344498)
+    + [Erlang History](https://github.com/ferd/erlang-history)
+    + [NimbleCSV](https://github.com/plataformatec/nimble_csv)
