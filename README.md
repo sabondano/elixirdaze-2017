@@ -63,3 +63,18 @@ A collection of links that cover what happened during ElixirDaze 2017. Please fe
     + [Erlang History](https://github.com/ferd/erlang-history)
     + [NimbleCSV](https://github.com/plataformatec/nimble_csv)
     + [Benfchella](https://github.com/alco/benchfella)
+
+#### Building Communities of Smart Things Takes Nerves by [Jean-Francois Cloutier](https://github.com/jfcloutier)
+- Links:
+    + [The Society of Mind](https://www.amazon.com/Society-Mind-Marvin-Minsky/dp/0671657135/ref=pd_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=NNM0007DVVX66K0DGQGS)
+    + [The Emotion Machine](https://www.amazon.com/Emotion-Machine-Commonsense-Artificial-Intelligence/dp/0743276647)
+    + [Nerves](https://github.com/nerves-project)
+    + [EV3DEV](http://www.ev3dev.org/)
+    + [A Functional Architecture for Autonomous Driving](https://www.kth.se/polopoly_fs/1.580283!/wasa2015.pdf)
+- Slides:
+    + [Building Communities of Smart Things Takes Nerves](https://goo.gl/yFXUu1)
+
+#### Can Elixir Bring Down Phoenix? by [Ben Marx]()
+- Links:
+    + [Bleacher Report](http://bleacherreport.com/)
+    + [Calendar](https://hexdocs.pm/elixir/Calendar.html)
