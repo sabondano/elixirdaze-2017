@@ -21,3 +21,8 @@ A collection of links that cover what happened during ElixirDaze 2017. Please fe
     + [Pollution](https://github.com/pragdave/pollution)
     + [Diet](https://github.com/pragdave/diet)
     + [Exactor](https://github.com/sasa1977/exactor)
+
+#### The ABCs of OTP by [Jesse J. Anderson](https://github.com/jessejanderson)
+- Links:
+    + ["The Zen of Erlang](http://ferd.ca/the-zen-of-erlang.html)
+    + [Suggested Resources](https://gist.github.com/jessejanderson/16cbc0614e9194fa1b64460f775777ab)
