@@ -27,3 +27,11 @@ A collection of links that cover what happened during ElixirDaze 2017. Please fe
 - Links:
     + ["The Zen of Erlang](http://ferd.ca/the-zen-of-erlang.html)
     + [Suggested Resources](https://gist.github.com/jessejanderson/16cbc0614e9194fa1b64460f775777ab)
+
+#### Observer Driven Design by [Omid Bachari](https://github.com/omidbachari)
+- Slides:
+    + [Observer Driven Design](https://docs.google.com/presentation/d/1tw8kaWpKPFlBTdSeSf6piTMso03ulKTCNVe12p9va_8/edit?usp=sharing)
+
+#### Embrace The Database With Ecto by [Josh Branchaud](https://github.com/jbranchaud)
+- Links:
+    + []()
