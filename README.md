@@ -110,3 +110,11 @@ A collection of links that cover what happened during ElixirDaze 2017. Please fe
     + [Distillery](https://github.com/bitwalker/distillery)
     + [ExDoc](https://github.com/elixir-lang/ex_doc)
 - Slides:
+
+#### Beer: Not Just for Your Devs by [Maureen McElanyer]()
+- Slides:
+    + [Beer: Not Just for Your Dev2](https://speakerdeck.com/mmcelaney/beer-not-just-for-your-devs)
+
+#### Live Like A Hippy by [Amos King](://github.com/adkron)
+- Links:
+- Slides:
