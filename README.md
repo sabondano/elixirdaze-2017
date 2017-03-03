@@ -41,6 +41,7 @@ A collection of links that cover what happened during ElixirDaze 2017. Please fe
     + [PostgreSQL Documentation](https://www.postgresql.org/docs/9.6/static/index.html)
     + [Advanced SQL Book by Joe Celko](https://www.amazon.com/Joe-Celkos-SQL-Smarties-Fifth/dp/0128007613/ref=la_B000ARBFVQ_1_1?s=books&ie=UTF8&qid=1488482531&sr=1-1)
 - Slides:
+    + [Embrace The Database With Ecto](https://speakerdeck.com/jbranchaud/embrace-the-database-with-ecto)
 
 #### Stronger Than Fear (Mental Health in the Developer Community) by [Ed Finkler](https://github.com/funkatron)
 - Links:
