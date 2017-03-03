@@ -93,3 +93,20 @@ A collection of links that cover what happened during ElixirDaze 2017. Please fe
 #### Metrics, Logs and Alarms by [Francesco Cesarini](https://github.com/francescoc)
 - Links:
 - Slides:
+
+#### Just because you can, doesn't mean you should, which doesn't mean I won't. by [Paul Lamb](https://github.com/plamb)
+- Links:
+    + [Deploying Elixir](https://github.com/plamb/deploying-elixir)
+    + [Oil-Law Records](https://oil-law.com/)
+- Slides:
+
+#### Using Your Umbrella by [Chris Bell](https://github.com/cjbell)
+- Links:
+    + [Empex Conference](http://empex.co/)
+    + [Domain-Driven Design book](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
+    + [Elixir in times of microservices](http://blog.plataformatec.com.br/2015/06/elixir-in-times-of-microservices/)
+    + [Write code that is easy to delete, not easy to extend](http://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
+    + [Screaing Architecture](https://8thlight.com/blog/uncle-bob/2011/09/30/Screaming-Architecture.html)
+    + [Distillery](https://github.com/bitwalker/distillery)
+    + [ExDoc](https://github.com/elixir-lang/ex_doc)
+- Slides:
