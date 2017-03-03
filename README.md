@@ -42,7 +42,7 @@ A collection of links that cover what happened during ElixirDaze 2017. Please fe
     + [Advanced SQL Book by Joe Celko](https://www.amazon.com/Joe-Celkos-SQL-Smarties-Fifth/dp/0128007613/ref=la_B000ARBFVQ_1_1?s=books&ie=UTF8&qid=1488482531&sr=1-1)
 - Slides:
 
-#### Stronger Than Fear (Mental Health in the Developer COmmunity) by [Ed Finkler](https://github.com/funkatron)
+#### Stronger Than Fear (Mental Health in the Developer Community) by [Ed Finkler](https://github.com/funkatron)
 - Links:
     + [Graph Story](https://www.graphstory.com/)
     + [Prompt](http://mhprompt.org/)
@@ -74,7 +74,10 @@ A collection of links that cover what happened during ElixirDaze 2017. Please fe
 - Slides:
     + [Building Communities of Smart Things Takes Nerves](https://goo.gl/yFXUu1)
 
-#### Can Elixir Bring Down Phoenix? by [Ben Marx]()
+#### Can Elixir Bring Down Phoenix? by [Ben Marx](https://github.com/bgmarx)
 - Links:
     + [Bleacher Report](http://bleacherreport.com/)
     + [Calendar](https://hexdocs.pm/elixir/Calendar.html)
+    + [Bypass](https://github.com/pspdfkit-labs/bypass)
+    + [AlligatorRater](https://github.com/bgmarx/alligatorrater)
+    + [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/)
