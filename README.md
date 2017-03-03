@@ -110,6 +110,7 @@ A collection of links that cover what happened during ElixirDaze 2017. Please fe
     + [Distillery](https://github.com/bitwalker/distillery)
     + [ExDoc](https://github.com/elixir-lang/ex_doc)
 - Slides:
+    + [Using Your Umbrella](https://speakerdeck.com/cjbell88/using-your-umbrella-elixirdaze)
 
 #### Beer: Not Just for Your Devs by [Maureen McElanyer]()
 - Slides:
@@ -117,4 +118,12 @@ A collection of links that cover what happened during ElixirDaze 2017. Please fe
 
 #### Live Like A Hippy by [Amos King](://github.com/adkron)
 - Links:
+- Slides: [Live Like A Hippy](https://github.com/BinaryNoggin/live_like_a_hippy)
+
+#### Let's Generate Tests by [Chris Keathley](https://github.com/keathley)
+- Links: [QuickCheck: A Lightweight Tool for Random Testing of Haskell Programs](https://www.eecs.northwestern.edu/~robby/courses/395-495-2009-fall/quick.pdf)
 - Slides:
+
+#### Tackling Authentication with Phoenix on the right way by [Joao Moura](https://github.com/joaomdmoura)
+- Links: [Shohin / Beginner's Mind](https://en.wikipedia.org/wiki/Shoshin)
+
