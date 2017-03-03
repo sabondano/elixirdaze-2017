@@ -83,7 +83,7 @@ A collection of links that cover what happened during ElixirDaze 2017. Please fe
     + [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/)
 
 
-## Day 1
+## Day 2
 
 #### by [Saša Jurić](https://github.com/sasa1977)
 - Links:
@@ -125,5 +125,14 @@ A collection of links that cover what happened during ElixirDaze 2017. Please fe
 - Slides:
 
 #### Tackling Authentication with Phoenix on the right way by [Joao Moura](https://github.com/joaomdmoura)
-- Links: [Shohin / Beginner's Mind](https://en.wikipedia.org/wiki/Shoshin)
+- Links:
+    + [Shohin / Beginner's Mind](https://en.wikipedia.org/wiki/Shoshin)
+    + [POT](https://github.com/yuce/pot)
+    + [Joao's blog](http://joaomdmoura.com/)
+    + [Keeper](https://github.com/joaomdmoura/keeper)
+- Slides:
+    + []()
 
+#### Elixir Macros: The Power of the Dark Side by [Jason Cummings](https://github.com/jsncmgs1)
+- Links:
+- Slides:
