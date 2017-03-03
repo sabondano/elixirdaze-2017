@@ -81,3 +81,15 @@ A collection of links that cover what happened during ElixirDaze 2017. Please fe
     + [Bypass](https://github.com/pspdfkit-labs/bypass)
     + [AlligatorRater](https://github.com/bgmarx/alligatorrater)
     + [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/)
+
+
+## Day 1
+
+#### by [Saša Jurić](https://github.com/sasa1977)
+- Links:
+    + [dbg](http://erlang.org/doc/man/dbg.html)
+- Slides:
+
+#### Metrics, Logs and Alarms by [Francesco Cesarini](https://github.com/francescoc)
+- Links:
+- Slides:
