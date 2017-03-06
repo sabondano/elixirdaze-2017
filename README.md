@@ -86,10 +86,11 @@ A collection of links that cover what happened during ElixirDaze 2017. Please fe
 
 ## Day 2
 
-#### by [Saša Jurić](https://github.com/sasa1977)
+#### Solid Ground by [Saša Jurić](https://github.com/sasa1977)
 - Links:
     + [dbg](http://erlang.org/doc/man/dbg.html)
 - Slides:
+    + [Solid Ground](https://speakerdeck.com/sasajuric/solid-ground)
 
 #### Metrics, Logs and Alarms by [Francesco Cesarini](https://github.com/francescoc)
 - Links:
